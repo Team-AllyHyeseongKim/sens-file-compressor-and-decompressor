@@ -10,7 +10,7 @@ please put depth image as 16bit image(which elt. has value in mm)
 not relative disparity, or something like retrived from opencv stereovision block matcher
 (I mean, this only work with absolute value png)
 
-
+## reader.py
 reader.py is from http://www.scan-net.org/
 please check, it corresponds to the decompressor.
 check parm of reader.py
